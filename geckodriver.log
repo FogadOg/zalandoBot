@@ -2635,3 +2635,1074 @@ WebDriver BiDi listening on ws://127.0.0.1:54381
 Read port: 54390
 1701541268655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1701541271475	geckodriver	INFO	Listening on 127.0.0.1:54406
+1701541437941	geckodriver	INFO	Listening on 127.0.0.1:54524
+1701541440995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilepSWXkT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701541441257	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701541441349	Marionette	INFO	Listening on port 54535
+WebDriver BiDi listening on ws://127.0.0.1:54525
+Read port: 54535
+1701541441477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54525/devtools/browser/5bdd4b7f-3ff2-4bfa-a6dc-51110da52629
+1701541443666	Marionette	INFO	Stopped listening on port 54535
+Dynamically enable window occlusion 1
+1701541557899	geckodriver	INFO	Listening on 127.0.0.1:54652
+1701541560941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile4curar"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701541561175	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701541561260	Marionette	INFO	Listening on port 54661
+WebDriver BiDi listening on ws://127.0.0.1:54653
+Read port: 54661
+1701541561373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54653/devtools/browser/326b2878-b437-418c-8299-7706d35e7d18
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701541573897	Marionette	INFO	Stopped listening on port 54661
+Dynamically enable window occlusion 1
+1701541577255	geckodriver	INFO	Listening on 127.0.0.1:54744
+1701541580292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileX6qRha"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701541580521	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701541580605	Marionette	INFO	Listening on port 54754
+WebDriver BiDi listening on ws://127.0.0.1:54745
+Read port: 54754
+1701541580727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54745/devtools/browser/74a9fab2-e4b4-4a51-a628-5567481de3fd
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701541611878	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+01541757308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54952" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile01x1nw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701541757555	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701541757657	Marionette	INFO	Listening on port 54961
+WebDriver BiDi listening on ws://127.0.0.1:54952
+Read port: 54961
+1701541757829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54952/devtools/browser/0c6ea7a4-6715-4d5d-81b2-9903a383e621
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701541767419	Marionette	INFO	Stopped listening on port 54961
+Dynamically enable window occlusion 1
+1701541792367	geckodriver	INFO	Listening on 127.0.0.1:55059
+1701541795409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55060" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileLC7Fhu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701541795634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701541795718	Marionette	INFO	Listening on port 55070
+WebDriver BiDi listening on ws://127.0.0.1:55060
+Read port: 55070
+1701541795835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55060/devtools/browser/e56212d5-ee33-4c49-932a-54f79afc2797
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime1701541805781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilevjpswN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701541806006	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701541806090	Marionette	INFO	Listening on port 55162
+WebDriver BiDi listening on ws://127.0.0.1:55138
+Read port: 55162
+1701541806210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55138/devtools/browser/96de269e-f073-4db0-b8c2-0385a9bdbc2d
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701541814960	Marionette	INFO	Stopped listening on port 55162
+Dynamically enable window occlusion 1
+1701541845934	geckodriver	INFO	Listening on 127.0.0.1:55255
+1701541848978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileUtlQ9F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701541849227	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701541849317	Marionette	INFO	Listening on port 55265
+WebDriver BiDi listening on ws://127.0.0.1:55256
+Read port: 55265
+1701541849442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55256/devtools/browser/5e702e1d-2367-4695-a832-f33a84d13a5e
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701541876797	Marionette	INFO	Stopped listening on port 55265
+Dynamically enable window occlusion 1
+1701541914133	geckodriver	INFO	Listening on 127.0.0.1:55382
+1701541917178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilem916rQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701541917407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701541917492	Marionette	INFO	Listening on port 55392
+WebDriver BiDi listening on ws://127.0.0.1:55383
+Read port: 55392
+1701541917604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55383/devtools/browser/6108e171-c926-48cd-b029-4fc62f0e9d9d
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701541947977	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701541969141	Marionette	INFO	Stopped listening on port 55392
+Dynamically enable window occlusion 1
+1701542465887	geckodriver	INFO	Listening on 127.0.0.1:55868
+1701542468951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileJvtCWZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542469179	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542469268	Marionette	INFO	Listening on port 55878
+WebDriver BiDi listening on ws://127.0.0.1:55869
+Read port: 55878
+1701542469396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55869/devtools/browser/c4a670e9-32fd-472b-a375-2844e57ac484
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701542479054	Marionette	INFO	Stopped listening on port 55878
+Dynamically enable window occlusion 1
+1701542496162	geckodriver	INFO	Listening on 127.0.0.1:55972
+1701542499234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile93yReo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542499462	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542499546	Marionette	INFO	Listening on port 55983
+WebDriver BiDi listening on ws://127.0.0.1:55973
+Read port: 55983
+1701542499660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55973/devtools/browser/bd9a3f79-d284-48ef-a036-a960799120db
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701542506385	Marionette	INFO	Stopped listening on port 55983
+Dynamically enable window occlusion 1
+1701542530063	geckodriver	INFO	Listening on 127.0.0.1:56080
+1701542533105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile35YTq6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542533325	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542533410	Marionette	INFO	Listening on port 56090
+WebDriver BiDi listening on ws://127.0.0.1:56081
+Read port: 56090
+1701542533523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56081/devtools/browser/34fa08f5-ee2a-4460-ad18-4bbf96132a8d
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701542563338	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+n: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542550338	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542550423	Marionette	INFO	Listening on port 56192
+WebDriver BiDi listening on ws://127.0.0.1:56182
+Read port: 56192
+1701542550536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56182/devtools/browser/56dce750-32cf-4d73-8af4-ef1b384d6f4c
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701542563347	Marionette	INFO	Stopped listening on port 56192
+Dynamically enable window occlusion 1
+1701542585466	geckodriver	INFO	Listening on 127.0.0.1:56276
+1701542588524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile9lD7Nc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542588760	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542588847	Marionette	INFO	Listening on port 56286
+WebDriver BiDi listening on ws://127.0.0.1:56277
+Read port: 56286
+1701542588960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56277/devtools/browser/77f0bd12-e50b-4b13-8f5f-0060d9a00a04
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701542618872	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+01542681281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilehVKpuZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542681506	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542681593	Marionette	INFO	Listening on port 56409
+WebDriver BiDi listening on ws://127.0.0.1:56400
+Read port: 56409
+1701542681707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56400/devtools/browser/e4b0b53c-d383-4203-9a80-8914b5e14ea4
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701542711906	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+ugging-port" "56496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile6qphB2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542701045	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542701137	Marionette	INFO	Listening on port 56505
+Read port: 56505
+WebDriver BiDi listening on ws://127.0.0.1:56496
+1701542701177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56496/devtools/browser/463252f8-08e7-4a42-87cb-11b3c6a89972
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701542708192	Marionette	INFO	Stopped listening on port 56505
+Dynamically enable window occlusion 1
+1701542732642	geckodriver	INFO	Listening on 127.0.0.1:56603
+1701542735690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56604" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileMGI58s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542735918	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542736003	Marionette	INFO	Listening on port 56613
+WebDriver BiDi listening on ws://127.0.0.1:56604
+Read port: 56613
+1701542736120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56604/devtools/browser/b80b2036-6ca3-4f02-bf49-f6d7a5c98c11
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701542766503	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile5lpseo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542781069	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542781156	Marionette	INFO	Listening on port 56729
+WebDriver BiDi listening on ws://127.0.0.1:56719
+Read port: 56729
+1701542781268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56719/devtools/browser/a72bb403-0461-40b4-a633-7281ec99b8fd
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic01.ztat.net/base-assets/7-0-4/sentry-4.6.4.min.js, line 2: Script terminated by timeout at:
+i@https://mosaic01.ztat.net/base-assets/7-0-4/sentry-4.6.4.min.js:2:60744
+sentryWrapped@https://mosaic01.ztat.net/base-assets/7-0-4/sentry-4.6.4.min.js:2:57347
+
+1701542788239	Marionette	INFO	Stopped listening on port 56729
+Dynamically enable window occlusion 1
+1701542795079	geckodriver	INFO	Listening on 127.0.0.1:56813
+1701542798140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile3YsQeP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542798369	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542798455	Marionette	INFO	Listening on port 56825
+WebDriver BiDi listening on ws://127.0.0.1:56814
+Read port: 56825
+1701542798572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56814/devtools/browser/43633563-e26e-45f8-a244-4654808a491e
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701542804584	Marionette	INFO	Stopped listening on port 56825
+Dynamically enable window occlusion 1
+1701542810803	geckodriver	INFO	Listening on 127.0.0.1:56911
+1701542813875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiles5n27L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542814111	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542814202	Marionette	INFO	Listening on port 56921
+WebDriver BiDi listening on ws://127.0.0.1:56912
+Read port: 56921
+1701542814304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56912/devtools/browser/9363e26b-6592-4093-bbcd-45b65487a8b0
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701542820330	Marionette	INFO	Stopped listening on port 56921
+Dynamically enable window occlusion 1
+1701542852192	geckodriver	INFO	Listening on 127.0.0.1:57022
+1701542855270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilepavnli"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542855496	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542855582	Marionette	INFO	Listening on port 57032
+WebDriver BiDi listening on ws://127.0.0.1:57023
+Read port: 57032
+1701542855700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57023/devtools/browser/80dfe1a6-bda8-4bec-9f28-e45589343a7a
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701542860130	Marionette	INFO	Stopped listening on port 57032
+Dynamically enable window occlusion 1
+1701542863130	geckodriver	INFO	Listening on 127.0.0.1:57104
+1701542866183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileeUfkib"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542866412	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542866500	Marionette	INFO	Listening on port 57114
+WebDriver BiDi listening on ws://127.0.0.1:57105
+Read port: 57114
+1701542866613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57105/devtools/browser/97990822-8f47-43ef-b9a2-3b48707fd92b
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701542871028	Marionette	INFO	Stopped listening on port 57114
+Dynamically enable window occlusion 1
+1701542875904	geckodriver	INFO	Listening on 127.0.0.1:57180
+1701542878948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiletghj9W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542879173	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542879260	Marionette	INFO	Listening on port 57191
+WebDriver BiDi listening on ws://127.0.0.1:57181
+Read port: 57191
+1701542879378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57181/devtools/browser/5dc8e157-b145-4cfc-8831-4f547a8f6e70
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701542891153	Marionette	INFO	Stopped listening on port 57191
+Dynamically enable window occlusion 1
+1701542911827	geckodriver	INFO	Listening on 127.0.0.1:57292
+1701542914886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilejFDiIo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542915131	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542915229	Marionette	INFO	Listening on port 57303
+Read port: 57303
+WebDriver BiDi listening on ws://127.0.0.1:57293
+1701542915269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57293/devtools/browser/e338e876-153a-4569-9892-4b5c3aa06a87
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701542945196	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+ugging-port" "57396" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileENGdc6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542933577	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542933668	Marionette	INFO	Listening on port 57406
+WebDriver BiDi listening on ws://127.0.0.1:57396
+Read port: 57406
+1701542933706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57396/devtools/browser/75a98be2-9691-4ce2-8838-b435254c4c63
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701542963678	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+fox.exe" "--marionette" "--remote-debugging-port" "57514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileArPhtw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701542977709	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701542977798	Marionette	INFO	Listening on port 57523
+WebDriver BiDi listening on ws://127.0.0.1:57514
+Read port: 57523
+1701542977914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57514/devtools/browser/85c49136-de15-460a-b426-a090ac806f16
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701542984790	Marionette	INFO	Stopped listening on port 57523
+Dynamically enable window occlusion 1
+1701542999780	geckodriver	INFO	Listening on 127.0.0.1:57610
+1701543002842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileqyrNJA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543003082	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543003171	Marionette	INFO	Listening on port 57620
+WebDriver BiDi listening on ws://127.0.0.1:57611
+Read port: 57620
+1701543003272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57611/devtools/browser/58530e40-ed4f-4550-adb1-3bb5f38cedf6
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701543034473	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileIqtYBx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543042570	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543042660	Marionette	INFO	Listening on port 57755
+WebDriver BiDi listening on ws://127.0.0.1:57745
+Read port: 57755
+1701543042764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57745/devtools/browser/eb258a3e-f401-4aa8-bf5e-5574b395fca5
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701543130013	geckodriver	INFO	Listening on 127.0.0.1:57870
+1701543133087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileG9R3D4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543133321	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543133407	Marionette	INFO	Listening on port 57881
+WebDriver BiDi listening on ws://127.0.0.1:57871
+Read port: 57881
+1701543133511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57871/devtools/browser/bfd24bd8-838a-4d60-abc2-1ff251b88b18
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701543139296	Marionette	INFO	Stopped listening on port 57881
+Dynamically enable window occlusion 1
+1701543225239	geckodriver	INFO	Listening on 127.0.0.1:58003
+1701543228277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBCL5f6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543228539	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543228628	Marionette	INFO	Listening on port 58013
+WebDriver BiDi listening on ws://127.0.0.1:58004
+Read port: 58013
+1701543228752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58004/devtools/browser/af7432ed-081a-4e78-821d-40e5b672bfaf
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701543236781	Marionette	INFO	Stopped listening on port 58013
+Dynamically enable window occlusion 1
+1701543249005	geckodriver	INFO	Listening on 127.0.0.1:58095
+1701543252034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile9ZjUCi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543252274	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543252364	Marionette	INFO	Listening on port 58105
+WebDriver BiDi listening on ws://127.0.0.1:58096
+Read port: 58105
+1701543252488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58096/devtools/browser/fb3b72c2-6a5c-4fb0-8491-39e080c4c6fc
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701543257387	Marionette	INFO	Stopped listening on port 58105
+Dynamically enable window occlusion 1
+1701543280063	geckodriver	INFO	Listening on 127.0.0.1:58190
+1701543283096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilenUGMWr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543283342	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543283433	Marionette	INFO	Listening on port 58200
+Read port: 58200
+WebDriver BiDi listening on ws://127.0.0.1:58191
+1701543283475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58191/devtools/browser/b1f3751c-27c5-48be-9762-8662d33da2a2
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701543291694	Marionette	INFO	Stopped listening on port 58200
+Dynamically enable window occlusion 1
+1701543311395	geckodriver	INFO	Listening on 127.0.0.1:58273
+1701543314431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilevXtLQb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543314672	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543314764	Marionette	INFO	Listening on port 58284
+Read port: 58284
+WebDriver BiDi listening on ws://127.0.0.1:58274
+1701543314804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58274/devtools/browser/3df673a9-6e14-4838-9f26-8fffda43edfc
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701543338855	geckodriver	INFO	Listening on 127.0.0.1:58359
+1701543341903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiledWKp8Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543342144	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543342233	Marionette	INFO	Listening on port 58370
+WebDriver BiDi listening on ws://127.0.0.1:58360
+Read port: 58370
+1701543342273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58360/devtools/browser/1cd0fbac-d238-4d68-ae72-59c66d21d3e8
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701543371569	geckodriver	INFO	Listening on 127.0.0.1:58440
+1701543374615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBBLdvd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543374852	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543374940	Marionette	INFO	Listening on port 58450
+WebDriver BiDi listening on ws://127.0.0.1:58441
+Read port: 58450
+1701543375048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58441/devtools/browser/c3c441d8-8b65-412f-9aca-514cad8e4a76
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic01.ztat.net/base-assets/7-0-4/sentry-4.6.4.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://mosaic01.ztat.net/base-assets/7-0-4/sentry-4.6.4.min.js:2:57322
+
+1701543385260	Marionette	INFO	Stopped listening on port 58450
+Dynamically enable window occlusion 1
+1701543418210	geckodriver	INFO	Listening on 127.0.0.1:58576
+1701543421254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilemnzFJZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543421504	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543421596	Marionette	INFO	Listening on port 58586
+WebDriver BiDi listening on ws://127.0.0.1:58577
+Read port: 58586
+1701543421639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58577/devtools/browser/f1cc5b34-8c96-4a36-a7f3-8194bae56573
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701543432499	Marionette	INFO	Stopped listening on port 58586
+Dynamically enable window occlusion 1
+1701543582263	geckodriver	INFO	Listening on 127.0.0.1:58749
+1701543585306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiledSsepI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543585541	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543585628	Marionette	INFO	Listening on port 58760
+WebDriver BiDi listening on ws://127.0.0.1:58750
+Read port: 58760
+1701543585741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58750/devtools/browser/0634ff59-9872-4aa6-9bc5-8cf0ad208184
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic01.ztat.net/base-assets/7-0-4/sentry-4.6.4.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://mosaic01.ztat.net/base-assets/7-0-4/sentry-4.6.4.min.js:2:57322
+
+1701543596991	Marionette	INFO	Stopped listening on port 58760
+Dynamically enable window occlusion 1
+1701543713599	geckodriver	INFO	Listening on 127.0.0.1:58908
+1701543716683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileqTo5uh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543716934	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543717024	Marionette	INFO	Listening on port 58918
+WebDriver BiDi listening on ws://127.0.0.1:58909
+Read port: 58918
+1701543717152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58909/devtools/browser/29f728c4-4dc3-406d-856e-22355b01b72e
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701543746981	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701544199591	Marionette	INFO	Stopped listening on port 58918
+Dynamically enable window occlusion 1
+_DEVTOOLS=1 in the environment
+1701543754789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543754879	Marionette	INFO	Listening on port 59013
+WebDriver BiDi listening on ws://127.0.0.1:59004
+Read port: 59013
+1701543754981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59004/devtools/browser/0b1a2c20-fca0-4e69-946f-665a3a2c51d5
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701543762793	Marionette	INFO	Stopped listening on port 59013
+Dynamically enable window occlusion 1
+1701543775510	geckodriver	INFO	Listening on 127.0.0.1:59092
+1701543778584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilefta0Su"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543778821	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543778907	Marionette	INFO	Listening on port 59102
+WebDriver BiDi listening on ws://127.0.0.1:59093
+Read port: 59102
+1701543779019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59093/devtools/browser/a1af994d-160a-43c2-bc85-1ece289127bd
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701543792150	Marionette	INFO	Stopped listening on port 59102
+Dynamically enable window occlusion 1
+1701543796358	geckodriver	INFO	Listening on 127.0.0.1:59195
+1701543799397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilexXlPan"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543799633	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543799717	Marionette	INFO	Listening on port 59205
+WebDriver BiDi listening on ws://127.0.0.1:59196
+Read port: 59205
+1701543799834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59196/devtools/browser/5cfe17a3-ffa6-4ed4-8031-f9495428e4c6
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701543806856	Marionette	INFO	Stopped listening on port 59205
+Dynamically enable window occlusion 1
+1701543811565	geckodriver	INFO	Listening on 127.0.0.1:59286
+1701543814638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilezqDvEz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543814865	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543814951	Marionette	INFO	Listening on port 59297
+WebDriver BiDi listening on ws://127.0.0.1:59287
+Read port: 59297
+1701543815067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59287/devtools/browser/153ba637-df8d-410e-a556-8441f4a085f5
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701543823435	Marionette	INFO	Stopped listening on port 59297
+Dynamically enable window occlusion 1
+1701543887801	geckodriver	INFO	Listening on 127.0.0.1:59418
+1701543890859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilev7jDS7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701543891089	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701543891175	Marionette	INFO	Listening on port 59428
+WebDriver BiDi listening on ws://127.0.0.1:59419
+Read port: 59428
+1701543891295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59419/devtools/browser/0773c892-5205-4a12-a1af-519bf51a02ae
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701543898549	Marionette	INFO	Stopped listening on port 59428
+Dynamically enable window occlusion 1
+1701544091942	geckodriver	INFO	Listening on 127.0.0.1:59626
+1701544094992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile9PUFBn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701544095249	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701544095342	Marionette	INFO	Listening on port 59636
+WebDriver BiDi listening on ws://127.0.0.1:59627
+Read port: 59636
+1701544095484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59627/devtools/browser/2bcac248-eb4b-47c6-b9b4-fe5b58b29d27
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701544125464	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701544200649	Marionette	INFO	Stopped listening on port 59636
+Dynamically enable window occlusion 1
+1701544421418	geckodriver	INFO	Listening on 127.0.0.1:59892
+1701544424467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileGGf5Ma"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701544424696	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701544424781	Marionette	INFO	Listening on port 59903
+WebDriver BiDi listening on ws://127.0.0.1:59893
+Read port: 59903
+1701544424892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59893/devtools/browser/d8a28334-7fed-40bf-afe2-467092abf5f4
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701544436761	Marionette	INFO	Stopped listening on port 59903
+Dynamically enable window occlusion 1
+1701544740882	geckodriver	INFO	Listening on 127.0.0.1:60176
+1701544743944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileprC8hh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701544744170	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701544744255	Marionette	INFO	Listening on port 60186
+WebDriver BiDi listening on ws://127.0.0.1:60177
+Read port: 60186
+1701544744371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60177/devtools/browser/7d595311-fd65-4172-a38f-50b25f9fa80d
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701544774296	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701544776710	geckodriver	INFO	Listening on 127.0.0.1:60287
+1701544779770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60288" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileh9Qzw6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701544780006	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701544780092	Marionette	INFO	Listening on port 60298
+WebDriver BiDi listening on ws://127.0.0.1:60288
+Read port: 60298
+1701544780210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60288/devtools/browser/64bd1d22-d353-4dea-81e7-33491df3cdc2
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701544786450	Marionette	INFO	Stopped listening on port 60298
+Dynamically enable window occlusion 1
+1701544801632	geckodriver	INFO	Listening on 127.0.0.1:60391
+1701544804677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60392" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileQrqqMv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701544804917	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701544805007	Marionette	INFO	Listening on port 60402
+Read port: 60402
+WebDriver BiDi listening on ws://127.0.0.1:60392
+1701544805050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60392/devtools/browser/e27c7a8e-6dbe-43af-8435-896de39e39ec
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701544813928	Marionette	INFO	Stopped listening on port 60402
+Dynamically enable window occlusion 1
+1701544836562	geckodriver	INFO	Listening on 127.0.0.1:60500
+1701544839635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiledcM4D3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701544839863	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701544839947	Marionette	INFO	Listening on port 60511
+WebDriver BiDi listening on ws://127.0.0.1:60501
+Read port: 60511
+1701544840062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60501/devtools/browser/a1915cd0-0099-46de-ae39-2729b121d93c
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js, line 1: Script terminated by timeout at:
+o@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334386
+ga/this.initializeSendBeacon/</<@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:334874
+n@https://mosaic02.ztat.net/rnd/ng/runtime-58ca2de28a60563fc5c1.js:1:326817
+
+1701544850083	Marionette	INFO	Stopped listening on port 60511
+Dynamically enable window occlusion 1
+1701544884967	geckodriver	INFO	Listening on 127.0.0.1:60607
+1701544888049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileXTRXuf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701544888279	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701544888363	Marionette	INFO	Listening on port 60618
+WebDriver BiDi listening on ws://127.0.0.1:60608
+Read port: 60618
+1701544888484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60608/devtools/browser/56816ee2-4441-4f49-bf9d-1d21a61b0870
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: unreachable code after return statement
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.zalando.no/QiXDuGxRkACrCl0nUlUPT98c8kg/wa3DQS0N5DNO/UApRcXVcJg/Ww/szW1AVfjsB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mosaic01.ztat.net/base-assets/7-0-4/sentry-4.6.4.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://mosaic01.ztat.net/base-assets/7-0-4/sentry-4.6.4.min.js:2:57322
+
+1701544894618	Marionette	INFO	Stopped listening on port 60618
+Dynamically enable window occlusion 1
