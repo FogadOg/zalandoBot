@@ -3,6 +3,8 @@ from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import time
+from secret import email, password
+# You can use secret_key and api_key here in your code
 
 class Bot:
     def __init__(self, url: str, loginSite: str = None):
@@ -25,6 +27,7 @@ class Bot:
         self.clickOnButton('button._ZDS_REF_SCOPE_._4HcdR8.DJxzzA.u9KIT8.uEg2FS.U_OhzR.ZkIJC-.Vn-7c-.FCIprz.heWLCX.LyRfpJ.Md_Vex.NN8L-8.EmWJce.EvwuKo.VWL_Ot._13ipK_.gcK-9K.EKabf7.aX2-iv.r9BRio._2wi8M3.mo6ZnF.Wy3rmK', "shop nå")
     
     def clickOnButton(self, buttonToClick, checkElementText=None):
+        buttonToClick=buttonToClick.replace(" ",".")
         try:
             button = self.driver.find_element(By.CSS_SELECTOR, buttonToClick)
 
@@ -45,7 +48,7 @@ class Bot:
             button.click()
 
     def login(self, email, password):
-        emailField = self.driver.find_element(By.ID, 'login.secret')
+        emailField = self.driver.find_element(By.ID, 'login.email')
         passwordField = self.driver.find_element(By.ID, 'login.secret')
         login_button = self.driver.find_element(By.CLASS_NAME, 'DJxzzA.u9KIT8.uEg2FS.U_OhzR.ZkIJC-.Vn-7c-.FCIprz.heWLCX._9K5FC9.LyRfpJ.R7mUGT.Md_Vex.NN8L-8.h14nQ_.tiE3Mh._5PMpaO.EKabf7.aX2-iv.r9BRio.mo6ZnF.Wy3rmK')
 
