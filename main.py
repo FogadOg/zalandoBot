@@ -28,7 +28,9 @@ class Bot:
 
     def botInstructions(self):
         self.clickOnButton('button._ZDS_REF_SCOPE_._4HcdR8.DJxzzA.u9KIT8.uEg2FS.U_OhzR.ZkIJC-.Vn-7c-.FCIprz.heWLCX.LyRfpJ.Md_Vex.NN8L-8.EmWJce.EvwuKo.VWL_Ot._13ipK_.gcK-9K.EKabf7.aX2-iv.r9BRio._2wi8M3.mo6ZnF.Wy3rmK', "shop nå")
-        self.selectSize("div.MU8FaS._0xLoFW._8sTSoF.parent._78xIQ- div", 32)
+        self.clickOnButton('button.uc-btn.uc-btn-primary', "Det er OK")
+        
+        self.clickOnButton("div.YuYw-E.JT3_zV._0xLoFW._78xIQ-.EJ4MLB", "44")
 
         self.waitForPageToLoad("Logg inn", 10)
         self.login(email, password)
@@ -41,35 +43,36 @@ class Bot:
         wait.until(EC.title_contains(pageTitle))
 
     def clickOnButton(self, buttonToClick: str, checkElementText=None):
-        buttonToClick=buttonToClick.replace(" ",".")
+        buttonToClick = buttonToClick.replace(" ", ".")
         try:
-            button = self.driver.find_element(By.CSS_SELECTOR, buttonToClick)
-
-            self.clickElement(button, checkElementText)
-
+            buttons = WebDriverWait(self.driver, 10).until(
+                EC.presence_of_all_elements_located((By.CSS_SELECTOR, buttonToClick))
+            )
+            self.clickElement(buttons, checkElementText)
         except Exception as e:
             print("Button not found or couldn't be clicked:", e)
 
-    def clickElement(self, button: str, textToCheckAfter):            
-        if textToCheckAfter is not None:
-            if button.text.lower() == textToCheckAfter.lower():
-                print("button.text: ",button.text)
+    def clickElement(self, buttons: str, textToCheckAfter):          
+        for button in buttons:    
+            print("button.text: ",button.text)
+            print("textToCheckAfter: ",textToCheckAfter)
+            if textToCheckAfter is not None:
+                if textToCheckAfter.lower() in button.text.lower():
+                    actions = ActionChains(self.driver)
+                    actions.move_to_element(button).perform()
+                    button.click()
+                    break
+            else:
                 actions = ActionChains(self.driver)
                 actions.move_to_element(button).perform()
                 button.click()
-        else:
-            actions = ActionChains(self.driver)
-            actions.move_to_element(button).perform()
-            button.click()
+                break
 
     def scroll(self, elementToScrollOn: str, amountToScroll):
         print("scroll")
 
     def selectSize(self, element, indexOfSize):
-        buttons = self.driver.find_elements(By.CSS_SELECTOR, element)
-
-        buttons[indexOfSize].click()
-
+        pass
     def findChildElement(self, parentElement: str, textToCheckAfter):
         parentElement=parentElement.replace(" ",".")
         parentElement=self.driver.find_elements(By.CSS_SELECTOR, parentElement)
