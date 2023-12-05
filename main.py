@@ -20,20 +20,25 @@ class Bot:
         options = uc.ChromeOptions()
         options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.1 Safari/537.36")
 
-
         self.driver.get(url)
 
         self.botInstructions()
+        time.sleep(200)
+
 
     def botInstructions(self):
         self.clickOnButton('button._ZDS_REF_SCOPE_._4HcdR8.DJxzzA.u9KIT8.uEg2FS.U_OhzR.ZkIJC-.Vn-7c-.FCIprz.heWLCX.LyRfpJ.Md_Vex.NN8L-8.EmWJce.EvwuKo.VWL_Ot._13ipK_.gcK-9K.EKabf7.aX2-iv.r9BRio._2wi8M3.mo6ZnF.Wy3rmK', "shop nå")
         self.selectSize("div.MU8FaS._0xLoFW._8sTSoF.parent._78xIQ- div", 32)
-        wait = WebDriverWait(self.driver, 10)
-        wait.until(EC.title_contains("Logg inn"))
+
+        self.waitForPageToLoad("Logg inn", 10)
         self.login(email, password)
-
         
+        self.waitForPageToLoad("Adresse", 1)         
+        self.clickOnButton('a.z-coast-fjord_deliveryDestinationTab_option.z-coast-fjord_deliveryDestinationTab_option-selected.z-coast-fjord_deliveryDestinationTab_option_PICKUP_POINT', "shop nå")
 
+    def waitForPageToLoad(self, pageTitle:str, idk: int):
+        wait = WebDriverWait(self.driver, idk)
+        wait.until(EC.title_contains(pageTitle))
 
     def clickOnButton(self, buttonToClick: str, checkElementText=None):
         buttonToClick=buttonToClick.replace(" ",".")
