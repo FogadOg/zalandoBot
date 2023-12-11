@@ -11,7 +11,7 @@ import undetected_chromedriver as uc
 # C:\Users\Fogad\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python3.11
 
 class Bot:
-    def __init__(self, url: str, loginSite: str = None):
+    def __init__(self, url: str):
         driver_path = "C:/Users/Fogad/Downloads/geckodriver-v0.33.0-win64/geckodriver.exe"
         service = Service(driver_path, log_output='geckodriver.log')  
 
@@ -23,7 +23,7 @@ class Bot:
         self.driver.get(url)
 
         self.botInstructions()
-        time.sleep(200)
+
 
 
     def botInstructions(self):
@@ -33,10 +33,13 @@ class Bot:
         self.clickOnButton("div.YuYw-E.JT3_zV._0xLoFW._78xIQ-.EJ4MLB", "44")
 
         self.waitForPageToLoad("Logg inn", 10)
-        self.login(email, password)
+        self.fillOutField(email, 'login.email')
+        self.fillOutField(password, 'login.secret')
+        self.clickOnButton('DJxzzA.u9KIT8.uEg2FS.U_OhzR.ZkIJC-.Vn-7c-.FCIprz.heWLCX._9K5FC9.LyRfpJ.R7mUGT.Md_Vex.NN8L-8.h14nQ_.tiE3Mh._5PMpaO.EKabf7.aX2-iv.r9BRio.mo6ZnF.Wy3rmK')
         
-        self.waitForPageToLoad("Adresse", 1)         
+        self.waitForPageToLoad("Adresse", 10)         
         self.clickOnButton('a.z-coast-fjord_deliveryDestinationTab_option.z-coast-fjord_deliveryDestinationTab_option-selected.z-coast-fjord_deliveryDestinationTab_option_PICKUP_POINT', "shop nå")
+
 
     def waitForPageToLoad(self, pageTitle:str, idk: int):
         wait = WebDriverWait(self.driver, idk)
@@ -54,8 +57,6 @@ class Bot:
 
     def clickElement(self, buttons: str, textToCheckAfter):          
         for button in buttons:    
-            print("button.text: ",button.text)
-            print("textToCheckAfter: ",textToCheckAfter)
             if textToCheckAfter is not None:
                 if textToCheckAfter.lower() in button.text.lower():
                     actions = ActionChains(self.driver)
@@ -68,31 +69,15 @@ class Bot:
                 button.click()
                 break
 
-    def scroll(self, elementToScrollOn: str, amountToScroll):
-        print("scroll")
+    def fillOutField(self, text:str, fieldId:str):
+        emailField = self.driver.find_element(By.ID, fieldId)
 
-    def selectSize(self, element, indexOfSize):
-        pass
-    def findChildElement(self, parentElement: str, textToCheckAfter):
-        parentElement=parentElement.replace(" ",".")
-        parentElement=self.driver.find_elements(By.CSS_SELECTOR, parentElement)
-        for childElement in parentElement:
-            self.clickElement(childElement, textToCheckAfter)
+        emailField.send_keys(text)
 
-    def login(self, email, password):
-        emailField = self.driver.find_element(By.ID, 'login.email')
-        passwordField = self.driver.find_element(By.ID, 'login.secret')
-        login_button = self.driver.find_element(By.CLASS_NAME, 'DJxzzA.u9KIT8.uEg2FS.U_OhzR.ZkIJC-.Vn-7c-.FCIprz.heWLCX._9K5FC9.LyRfpJ.R7mUGT.Md_Vex.NN8L-8.h14nQ_.tiE3Mh._5PMpaO.EKabf7.aX2-iv.r9BRio.mo6ZnF.Wy3rmK')
-
-        emailField.send_keys(email)
-        passwordField.send_keys(password)
-
-        login_button.click()
 
 
 if __name__ == "__main__":
 
     bot = Bot(
     'https://www.zalando.no/nike-sportswear-air-force-1-07-joggesko-white-ni112n022-a11.html',
-    'https://accounts.zalando.com/authenticate?redirect_uri=https://www.zalando.no/sso/callback&client_id=fashion-store-web&response_type=code&scope=openid&request_id=yO5t6T8mGa2NgkOg:b5c30442-1fcd-4e4d-a963-c10a6912df69:8ikwUTfiXW3kF2xn&nonce=962074fa-f998-4435-8eda-bfa134dbdb7e&state=eyJvcmlnaW5hbF9yZXF1ZXN0X3VyaSI6Imh0dHBzOi8vZXhjbHVzaXZlLnphbGFuZG8ubm8vZXhjbHVzaXZlL2NoZWNrb3V0L3ZhbGlkYXRlLWJyb3dzZXI_c2t1PU5JMTEyTjAyMi1BMTEwMDk1MDAwIiwidHMiOiIyMDIzLTEyLTAyVDE2OjUzOjE0WiJ9&ui_locales=no-NO&zalando_client_id=b5c30442-1fcd-4e4d-a963-c10a6912df69&cid=GA1.2.584526696.1701535993&sales_channel=ef064ea7-1d91-442c-bcbb-9d20749af19b&client_country=false&client_category=fs',  
     )
